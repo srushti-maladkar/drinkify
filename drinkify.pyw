@@ -8,7 +8,7 @@
 # Schedule to run function after 90 mins
 
 import time
-time.sleep(10)
+
 from win10toast import ToastNotifier
 
 toaster = ToastNotifier()
