@@ -1,0 +1,2 @@
+CALL "c:\Users\smaladka\OneDrive - \Desktop\Python Tutorial\venv\Scripts\activate.bat"
+"c:/Users/smaladka/OneDrive - /Desktop/Python Tutorial/venv/Scripts/python.exe" "c:/Users/smaladka/OneDrive - /Desktop/Python Tutorial/drinkify/drinkify.pyw"
